@@ -78,3 +78,12 @@ volumes:
 9. http://your-server-ip:8080
 
 <h1>🐳 Flask powered by Docker </h1> 
+
+🔄 Flask is a popular micro web framework written in Python. <br>
+🔄 Simplicity and Ease of Use: It has a gentle learning curve and is quick to get started with, even for beginners. <br>
+🔄 Great for APIs and Microservices <br>
+🔄 Flexibility & Lightweight <br>
+
+![flask](https://github.com/user-attachments/assets/00a348a0-a78e-4661-96f9-596fcea6ad5c)
+
+
